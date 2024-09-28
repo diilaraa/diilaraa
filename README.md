@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Image Filtering in Computer vision**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📫 How to reach me **dilaratop02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
