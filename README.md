@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilara Top</h1>
-<h3 align="center">A passionate student from Turkey👨‍💻</h3>
-
-- 🔭 I’m currently working on **Image Filtering in Computer vision**
+<h3 align="center">Information System Engineer👨‍💻</h3>
 
 - 📫 How to reach me **dilaratop02@gmail.com**
 
